@@ -1,1 +1,1 @@
-# TypeScript Pokedex App
+# TypeScript Pokédex App
